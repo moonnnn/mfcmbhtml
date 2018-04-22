@@ -13,25 +13,18 @@
 另外还有vue版的[蚂蜂窝vue版本PC端源码](https://github.com/moonnnn/mfw_pc)
 
 >  ###
-[蚂蜂窝PC端演示地址](https://moonnnn.github.io/mfcmbhtml/)
+[蚂蜂窝PC端演示地址](https://moonnnn.github.io/mfcpchtml/)
 ###
-[蚂蜂窝PC端源码](https://github.com/moonnnn/mfcmbhtml/)
+[蚂蜂窝PC端源码](https://github.com/moonnnn/mfcpchtml/)
+
 ###
-[蚂蜂窝移动演示地址](https://moonnnn.github.io/mfc_mbshow/)
+[蚂蜂窝移动演示地址](https://moonnnn.github.io/mfcmbhtml/)
 ###
-[蚂蜂窝移动源码](https://github.com/moonnnn/mfw_mb)
+[蚂蜂窝移动源码](https://github.com/moonnnn/mfcmbhtml)
 
 
-## 项目运行（nodejs 6.0+）
+## 项目运行
 ``` bash
 # 克隆到本地
 git clone https://github.com/moonnnn/mfw_pc.git
-
-# 安装依赖
-npm install
-
-# 开启本地服务器localhost:8080
-npm run dev
-
-# 发布环境
-npm run build
+直接游览器运行
