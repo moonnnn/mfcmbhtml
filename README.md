@@ -13,14 +13,14 @@
 另外还有vue版的[蚂蜂窝vue版本PC端源码](https://github.com/moonnnn/mfw_pc)
 
 >  ###
-[蚂蜂窝PC端演示地址](https://moonnnn.github.io/mfcpchtml/)
+[蚂蜂窝PC端演示地址](https://moonnnn.github.io/mfwpchtml/)
 ###
 [蚂蜂窝PC端源码](https://github.com/moonnnn/mfwpchtml)
 
 ###
-[蚂蜂窝移动演示地址](https://moonnnn.github.io/mfcmbhtml/)
+[蚂蜂窝移动演示地址](https://moonnnn.github.io/mfwmbhtml/)
 ###
-[蚂蜂窝移动源码](https://github.com/moonnnn/mfcmbhtml)
+[蚂蜂窝移动源码](https://github.com/moonnnn/mfwmbhtml)
 
 
 ## 项目运行
