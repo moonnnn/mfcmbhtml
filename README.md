@@ -15,7 +15,7 @@
 >  ###
 [蚂蜂窝PC端演示地址](https://moonnnn.github.io/mfcpchtml/)
 ###
-[蚂蜂窝PC端源码](https://github.com/moonnnn/mfcpchtml/)
+[蚂蜂窝PC端源码](https://github.com/moonnnn/mfwpchtml)
 
 ###
 [蚂蜂窝移动演示地址](https://moonnnn.github.io/mfcmbhtml/)
@@ -24,7 +24,6 @@
 
 
 ## 项目运行
-``` bash
 # 克隆到本地
 git clone https://github.com/moonnnn/mfw_pc.git
 直接游览器运行
